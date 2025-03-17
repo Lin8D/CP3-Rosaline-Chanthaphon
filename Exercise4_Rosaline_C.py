@@ -1,0 +1,10 @@
+subject1 = input(" Enter Foundation English Score : ")
+subject2 = input(" Enter General Business Score : ")
+subject3 = input(" Enter Introduction to Computer Systems Score : ")
+subject4 = input(" Enter Computer Programming Score : ")
+
+print("--- Your Score ---")
+print("Foundation English :",subject1)
+print("General Business :",subject2)
+print("Introduction to Computer Systems :",subject3)
+print("Computer Programming :",subject4)
